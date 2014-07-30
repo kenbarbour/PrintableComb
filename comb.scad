@@ -4,7 +4,7 @@
  * 
  * A quick and simple parametric hair comb I intend to carry in my pocket.
  */
-$fn = 24;
+
 thickness = 3; // Thickness
 length = 85.6; // Overall length
 width = 53.9; // Overall Width
